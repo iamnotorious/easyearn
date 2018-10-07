@@ -27,8 +27,9 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
-        <activity android:name=".earnMenu"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".earnMenu" />
+        <activity android:name=".LoginActivity" android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>
